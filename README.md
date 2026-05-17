@@ -18,3 +18,7 @@ O usuário insere os valores das matrizes **A** e **B**, e o programa calcula a 
 1. Compile o programa:
    ```bash
    javac src/matrizes/app/service/MatrizServise.java
+   
+## 🛠️ Tecnologias utilizadas
+- ☕ Java
+- 💬 JOptionPane (entrada e saída gráfica)
