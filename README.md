@@ -22,3 +22,6 @@ O usuário insere os valores das matrizes **A** e **B**, e o programa calcula a 
 ## 🛠️ Tecnologias utilizadas
 - ☕ Java
 - 💬 JOptionPane (entrada e saída gráfica)
+
+## 👨‍🎓 Autor 
+- Marcos Mendes
